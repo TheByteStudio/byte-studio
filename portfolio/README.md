@@ -124,7 +124,7 @@ Visit my portfolio to see examples of my work. This includes website designs, de
 
 ### Preview
 
-- [Your Portfolio URL](https://thebytestudio.netlify.app) (replace with actual link)
+- [Your Portfolio URL](https://your-portfolio-url.com) (replace with actual link)
 
 ## Getting Started
 
