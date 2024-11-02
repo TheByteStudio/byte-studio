@@ -85,9 +85,9 @@ Conclusion
 
 By setting up a professional website, developing a solid portfolio, learning the necessary tools, and setting up streamlined workflows for each service area, you can start marketing and offering your services from home. Start small by offering free or discounted services to build credibility, and use tools like GitHub, Google My Business, and SEO platforms to enhance your efficiency and visibility.
 
-# Byte Repository
+# Byte Studio
 
-Welcome to the **Byte Repository**! This is a private repository containing various projects and resources related to my business initiatives, including local SEO services, web design, IT services, app development, and my personal portfolio.
+Welcome to the **byte studio**! This is a private repository containing various projects and resources related to my business initiatives, including local SEO services, web design, IT services, app development, and my personal portfolio.
 
 > **Note:** This repository is private and intended for personal use and collaboration with specific individuals.
 
