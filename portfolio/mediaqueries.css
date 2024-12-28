@@ -101,3 +101,26 @@
     text-align: justify;
   }
 }
+
+/* Target mobile devices */
+@media (max-width: 768px) {
+  /* Center the title text */
+  .title, .section__text__p1 {
+    text-align: center;
+  }
+
+  /* Center any other specific text elements as needed */
+  .section__text__p2 {
+    text-align: center;
+  }
+
+  /* Center the profile paragraph as well */
+  .section__text__p1, .section__text__p2 {
+    text-align: center;
+  }
+
+  /* Ensure the buttons are centered (optional) */
+  .btn-container {
+    text-align: center;
+  }
+}
