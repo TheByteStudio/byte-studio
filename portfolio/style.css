@@ -470,4 +470,36 @@ footer p {
   }
 }
 
+/* Styling for the demo credentials block */
+.demo-credentials {
+  background-color: #fafafa;  /* Light background for contrast */
+  padding: 15px 20px;  /* Add some padding around the text */
+  margin-top: 20px;  /* Space from the rest of the content */
+  text-align: left;  /* Align text to the left */
+  max-width: 500px;  /* Limit the width to avoid stretching */
+  margin-left: auto;
+  margin-right: auto;  /* Center the block on the page */
+}
 
+/* Title for the project */
+.project-title {
+  text-align: center;
+  font-size: 2em;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+/* Styling for each credential (login and password) */
+.demo-credentials p {
+  font-size: 1.1em;  /* Increase font size slightly */
+  color: #333;  /* Standard text color */
+  margin: 10px 0;  /* Add some space between each line */
+}
+
+/* Style for the actual login and password values */
+.credential-value {
+  font-family: 'Courier New', monospace;  /* Monospace font for a tech feel */
+  background-color: #e0e0e0;  /* Light gray background */
+  padding: 5px 10px;  /* Padding around the text */
+  color: #333;  /* Dark text for good contrast */
+}
