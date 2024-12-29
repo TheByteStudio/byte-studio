@@ -454,3 +454,20 @@ footer p {
   }
 }
 
+/* Target mobile devices */
+@media (max-width: 768px) {
+  /* Center the content */
+  .centered-text {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .centered-text img {
+    display: block;  /* Remove any extra spacing caused by inline images */
+    margin: 0 auto;  /* Center the image within the paragraph */
+  }
+}
+
+
