@@ -3,11 +3,12 @@
 <br>
 
 <!-- Image and Title -->
-![title](other/assets/title.png)
-<br>
+$~~~~~~~~~~~~~~$![title](other/assets/title.png)
+<br> 
 
 <!-- Description -->
-![description](other/assets/description.png)
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$![description](other/assets/description.png)
 <br>
 
-
+<!-- Break -->
+____
