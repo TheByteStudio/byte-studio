@@ -2,14 +2,17 @@
 ![header](other/assets/header.png)
 
 <!-- Image and Title -->
-$~~~~~~~~~~~~~~$![title](other/assets/title.png)
+<div align="center">
+
+![title](other/assets/title.png)
+
+</div>
 
 <!-- Break -->
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ ________________________________________________
+____
 
 <!-- Description -->
 ![spacer](other/assets/spacer.png)![description](other/assets/description.png)
-<br>
 
 <!-- Break -->
 ____
