@@ -12,7 +12,11 @@
 ____
 
 <!-- Description -->
+<div align="center">
+  
 ![spacer](other/assets/spacer.png)![description](other/assets/description.png)
+
+</div>
 
 <!-- Break -->
 ____
