@@ -3,11 +3,18 @@
 <br>
 
 <!-- Image and Title -->
-![title](other/assets/title.png)
+<div style="text-align: center;">
+  <img src="other/assets/title.png" alt="title">
+</div>
+
 <br>
 
 <!-- Description -->
-![description](other/assets/description.png)
+<div style="text-align: right; position: relative; left: -310px;">
+  <img src="other/assets/description.png" alt="description">
+</div>
+
+
 <br>
 
 
