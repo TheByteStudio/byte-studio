@@ -12,9 +12,9 @@
 ____
 
 <!-- Description -->
-<div align="center">
+<div align="right">
   
-![spacer](other/assets/spacer.png)![description](other/assets/description.png)
+![description](other/assets/description.png)
 
 </div>
 
